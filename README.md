@@ -1,5 +1,11 @@
 # Heart Disease Prediction
 
+> **Jedha Bootcamp — Data Essentials, Final Project (2026)** — [View Certificate (PDF)](Certificate/Jedha-DataEssentials.pdf)
+
+<p align="center">
+  <img src="Certificate/Jedha-DataEssentials.png" alt="Jedha Bootcamp Data Essentials Certificate" width="700">
+</p>
+
 A machine learning project to predict cardiovascular disease from clinical patient data. Built as the final project for Jedha Bootcamp — Data Essentials.
 
 ## The Problem
